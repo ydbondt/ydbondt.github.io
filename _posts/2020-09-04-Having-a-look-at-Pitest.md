@@ -1,5 +1,3 @@
-# Having a look at Pitest
-
 While splitting up some project specific code and thus adjusting tests on the unifly-asterix-tracking module, I thought I would try to run pitest on them. 
 \
 Just because I wanted to learn more about mutation testing.
