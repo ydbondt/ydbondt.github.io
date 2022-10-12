@@ -1,8 +1,3 @@
-While splitting up some project specific code and thus adjusting tests on the unifly-asterix-tracking module, I thought I would try to run pitest on them. 
-\
-Just because I wanted to learn more about mutation testing.
-Here’s what I have learned …
-
 ## What is pitest ?
 Pitest is a mutation testing system.
 
